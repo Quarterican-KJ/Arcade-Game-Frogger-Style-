@@ -1,4 +1,4 @@
-frontend-nanodegree-arcade-game
+Frogger Style Arcade Game!
 ===============================
 **HOW TO RUN:** Either clone or download the repo to your local machine or follow this link to play it live. https://quarterican-kj.github.io/Arcade-Game-Frogger-Style-/
 
